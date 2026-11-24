@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm May!
 
-<!--
-**mayyhung/mayyhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MS student at Cornell Tech with a background in Economics and Data Science. I have experience building machine learning models, developing data pipelines, and applying data science to real-world problems across e-commerce and mobility.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, SQL, R
+
+**Machine Learning:** Scikit-learn, NLP, Word2Vec, BERTopic
+
+**Data & Infrastructure:** Pandas, NumPy, PySpark, BigQuery, GCP
+
+**Methods:** Predictive Modeling, Clustering, Statistical Analysis, A/B Testing
+
+### 🚀 Featured Projects
+
+- **NLP Text-to-Metrics Pipeline** – Transforming unstructured text into standardized quantitative metrics using NLP.
+- **Machine Learning Projects** – Predictive modeling, feature engineering, and model evaluation.
+- **GenAI-powered SQL Optimization** – Building an automated SQL optimization and validation workflow, reducing infrastructure traffic by 70%.
+
+### 🎓 Education
+
+**Cornell Tech** | M.S. in Information Systems, Expected May 2028
+
+**National Taiwan University** | B.A. in Economics with Second Field in Data Science
