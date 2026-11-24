@@ -1,6 +1,6 @@
 # Hi, I'm May!
 
-I'm a MS student at Cornell Tech with a background in Economics and Data Science. I have experience building machine learning models, developing data pipelines, and applying data science to real-world problems across e-commerce and mobility.
+I'm a MS student at Cornell Tech in Information System with a background in Economics and Data Science. I have experience building machine learning models, developing data pipelines, and applying data science to real-world problems across e-commerce and mobility.
 
 ### 🔧 Tech Stack
 
